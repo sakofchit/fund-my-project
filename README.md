@@ -61,6 +61,6 @@ If you're a student, I strongly recommend applying for the [Github Student Devel
 
 ### Domains
 * [Namcheap](https://www.namecheap.com/promos/amazing98s/): Various TLD's for <$1
-* [Freenom](https://www.freenom.com/en/index.html?lang=en): Free TLD's (only use them if your desperate)
+* [Freenom](https://www.freenom.com/en/index.html?lang=en): Free TLD's (only use them if you are desperate)
 
 
