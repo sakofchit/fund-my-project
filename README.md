@@ -60,7 +60,7 @@ If you're a student, I strongly recommend applying for the [Github Student Devel
 * [Netlify](https://app.netlify.com/signup?_ga=2.78488534.316458120.1584819332-1497192649.1584819332): Free plan
 
 ### Domains
-* [Namcheap](https://www.namecheap.com/promos/amazing98s/): Various TLD's for <$1
+* [Namecheap](https://www.namecheap.com/promos/amazing98s/): Various TLD's for <$1
 * [Freenom](https://www.freenom.com/en/index.html?lang=en): Free TLD's (only use them if you are desperate)
 
 
