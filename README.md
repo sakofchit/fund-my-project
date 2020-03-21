@@ -1,5 +1,5 @@
 # Fund My Project
-This is a collection of verified programs that offer grants + funding towards ideas, side projects, startups, etc. It contains application information along with deadlines.
+This is a collection of verified resources & programs that offer grants + funding towards ideas, side projects, startups, etc. It contains application information along with deadlines.
 
 Pull requests are accepted and **must** follow the format below. Will try to keep this updated regularly sorted by earliest deadline.
 
@@ -56,8 +56,8 @@ If you're a student, I strongly recommend applying for the [Github Student Devel
 * [Heroku](https://www.heroku.com/free)
 * [Vultr](https://www.vultr.com/promo/try50/?service=try50&gclid=Cj0KCQjw9tbzBRDVARIsAMBplx8xj-tqmDkAI7YigFg4d-Nx2ViGTBNM_7p-nwcnLbzAftOesPXwb5oaAtx1EALw_wcB): $50 credit
 * [Azure](https://azure.microsoft.com/en-us/free/search/?&ef_id=Cj0KCQjw9tbzBRDVARIsAMBplx9PigtIuHm8Qq-BZUg08QQH_MRNiPe4veK6J6U7z7kA0M28LtyIuEMaAmjUEALw_wcB:G:s&OCID=AID2000128_SEM_9abWh9Gi&MarinID=9abWh9Gi_287508793827_free%20aws%20credits_e_c__55584146309_kwd-458022906128&lnkd=Google_Azure_compete&gclid=Cj0KCQjw9tbzBRDVARIsAMBplx9PigtIuHm8Qq-BZUg08QQH_MRNiPe4veK6J6U7z7kA0M28LtyIuEMaAmjUEALw_wcB): $200 credit
-* [AWS](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc)
-* [Netlify](https://app.netlify.com/signup?_ga=2.78488534.316458120.1584819332-1497192649.1584819332)
+* [AWS](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc): Free tier
+* [Netlify](https://app.netlify.com/signup?_ga=2.78488534.316458120.1584819332-1497192649.1584819332): Free plan
 
 ### Domains
 * [Namcheap](https://www.namecheap.com/promos/amazing98s/): Various TLD's for <$1
