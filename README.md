@@ -45,10 +45,10 @@ Pull requests are accepted and **must** follow the format below. Will try to kee
 * ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `No deadline`
 
 ### PSF Grants Program
-* **Info** Through the Mozilla Open Source Support (MOSS) awards program, they recognize, celebrate, and support open source projects that contribute to Mozilla’s work and to the health of the Internet. MOSS broadens access, increases security, and empowers users by providing catalytic funding to open source technologists.
+* **Info** The Python Software Foundation is the organization behind Python. Become a member of the PSF and help advance the software.
 * **Award**: Varies
 * **Application Requirements** https://www.python.org/psf/grants/#grant-proposal-requirements
-* ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Temporarily Paused as of March 13, 2020`
+* ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Temporarily Paused as of March 13, 2020 due to Coronavirus`
 
 ## Crowdfunding Options
 Winning a grant is much easier said than done which is why I wanted to include another section linking you to platforms where you can crowdfund instead. In many cases, a grant might not cover all of your costs which is why crowdfunding might also be a good option for you to look into.
