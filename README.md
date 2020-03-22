@@ -17,7 +17,6 @@ Pull requests are accepted and **must** follow the format below. Will try to kee
 * **Application Link**: https://apply.opentech.fund/internet-freedom-fund/
 * ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Deadline: May 1st, 2020`
 
-
 ### AwesomeFoundation.org
 * **Info** The Awesome Foundation is an organization that awards $1,000 grants every month. They don't want any compensation (equity, ownership, ROI, etc.) they simply want to help you build your product!
 * **Award**: $1000
@@ -25,12 +24,25 @@ Pull requests are accepted and **must** follow the format below. Will try to kee
 * **Application Link**: https://www.awesomefoundation.org/en/submissions/new
 * ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `No deadline! Grants are typically awarded monthly.`
 
+### Unitary Fund
+* **Info** Non-profit working to create a quantum technology ecosystem that benefits the most people. They fund explorers across the world to work on quantum technologies.
+* **Award**: $4000
+* **Application Process**: The program is designed to be as simple as possible. No committees to convince. No organizational affiliation required. Just a short form and a two minute video. More details here: https://unitary.fund/
+* **Application Link**: https://willzeng.typeform.com/to/j0kAOd
+* ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `No deadline!`
+
 ### Mozilla Open Source Support Awards
 * **Info** Through the Mozilla Open Source Support (MOSS) awards program, they recognize, celebrate, and support open source projects that contribute to Mozilla’s work and to the health of the Internet. MOSS broadens access, increases security, and empowers users by providing catalytic funding to open source technologists.
 * **Award**: Varies
 * **Application Process**: Fill out form: https://www.mozilla.org/en-US/moss/
 * **Application Link**: https://www.mozilla.org/en-US/moss/ (Select award track)
 * ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `No deadline! Grants are typically awarded monthly.`
+
+### Gitcoin
+* **Info** Gitcoin is a bazaar where you can find funding for your code, or code if you're a funder.
+* **Award**: Varies
+* **Process**: https://gitcoin.co/how/funder
+* ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `No deadline`
 
 ### PSF Grants Program
 * **Info** Through the Mozilla Open Source Support (MOSS) awards program, they recognize, celebrate, and support open source projects that contribute to Mozilla’s work and to the health of the Internet. MOSS broadens access, increases security, and empowers users by providing catalytic funding to open source technologists.
