@@ -58,6 +58,7 @@ Winning a grant is much easier said than done which is why I wanted to include a
 * [Patreon](https://www.patreon.com/): Patreon is a membership platform based in the United States that provides business tools for creators to run a subscription content service. It allows creators and artists to earn a monthly income by providing exclusive rewards and perks to their subscribers
 * [CodeFund](https://codefund.io): CodeFund focuses on providing an ethical alternative to digital advertising that drives results and respect from our technical audience
 * [CrowdFunder](https://crowdfunder.com): Crowdfunder is the leader in equity crowdfunding and has helped raise capital for thousands of companies from a network of 12,000 VCs and angel investors 
+* [Experiment](https://experiment.com): Experiment is a crowdfunding platform for scientific research projects, including academic research, teaching and public outreach, and independent science projects.
 
 ## Free Resources to Get Off the Ground
 Various platforms offer free server credit to help you and your project get off the ground without worrying about start-up costs.
