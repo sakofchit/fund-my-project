@@ -44,6 +44,13 @@ Pull requests are accepted and **must** follow the format below. Will try to kee
 * **Process**: https://gitcoin.co/how/funder
 * ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `No deadline`
 
+### Facebook Small Business Grants Program
+* **Info** Facebook is offering $100M in cash grants and ad credits to help during this challenging time for up to 30,000 eligible small businesses.
+* **Award**: Varies
+* **Application Process**: TBA; Check here for details: https://www.facebook.com/business/boost/grants
+* **Application Link**: TBA; Check here for details: https://www.facebook.com/business/boost/grants
+* ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `N/A They will begin taking applications in the coming weeks`
+
 ### PSF Grants Program
 * **Info** The Python Software Foundation is the organization behind Python. Become a member of the PSF and help advance the software.
 * **Award**: Varies
