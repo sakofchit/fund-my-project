@@ -10,12 +10,33 @@ Pull requests are accepted and **must** follow the format below. Will try to kee
 * **Application Link**: https://tyk.io/fund/
 * ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Deadline: March 31st, 2020`
 
-### Open Technology Fund
+### Open Technology Fund (Internet Freedom Fund)
 * **Info**: The Internet Freedom Fund is OTF's primary way to support projects and people working on open and accessible technology-centric projects that promote human rights, Internet freedom, open societies, and help advance inclusive and safe access to global communications networks for at-risk users including journalists, human rights defenders, civil society activists, and every-day people living within repressive environments who wish to speak freely online.
 * **Award**: Anywhere from $10,000 to $900,000. 
 * **Application Process/Info**: https://www.opentech.fund/funds/internet-freedom-fund/
 * **Application Link**: https://apply.opentech.fund/internet-freedom-fund/
 * ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Deadline: May 1st, 2020`
+
+### Open Technology Fund (Core Infrastructure Fund)
+* **Info**: The Core Infrastructure Fund supports the ‘building block’ technologies, infrastructures, and communities relied upon by digital security and circumvention tools strengthening Internet freedom, digital security, and the overall health of the Internet.
+* **Award**: Maximum of $300,000. 
+* **Application Process/Info**: All CIF applications are reviewed by the OTF team; selected applications are also then reviewed by OTF’s independent Advisory Council review panel. CIF proposals are reviewed by specific AC members who bring with them a deep knowledge of and experience with core Internet technologies. Further details here: https://www.opentech.fund/funds/core-infrastructure-fund/
+* **Application Link**: https://apply.opentech.fund/core-infrastructure-fund/
+* ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Deadline: May 1st, 2020`
+
+### Open Technology Fund (Community Prototype Fund)
+* **Info**: The Community Prototype Fund supports the rapid development of innovative, viable and open Internet freedom technology prototypes that serve the immediate needs of the Internet freedom and human rights communities.
+* **Award**: Successful applicants are awarded monetary support up to $6,000 for a duration of less than 12 weeks.
+* **Application Process/Info**: Successful applicants selected by OTF are paired with an OTF program manager who oversees all project monitoring and evaluation for the duration of the awarded contract lifecycle. Monitoring and evaluation assessments are largely based on predetermined and agreed upon metrics, deliverables, and goals as laid out by the applicant in the project proposal workplan. Further details here: https://www.opentech.fund/funds/community-prototype-fund/
+* **Application Link**: https://apply.opentech.fund/cpf/
+* ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Deadline: May 1st, 2020`
+
+### Open Technology Fund (Rapid Response Fund)
+* **Info**: The Rapid Response Fund aims to facilitate the digital emergency response community to resolve threats in a timely and comprehensive manner for individuals, communities, and organizations whose free expression has recently been repressed.
+* **Award**: Successful applicants are awarded monetary support up to $6,000 for a duration of less than 12 weeks.
+* **Application Process/Info**: OTF accepts applications on a rolling basis. Further details here: https://www.opentech.fund/funds/rapid-response-fund/
+* **Application Link**: https://apply.opentech.fund/rapid-response-fund/
+* ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `No Deadline! Applications accepted on a rolling basis`
 
 ### AwesomeFoundation.org
 * **Info** The Awesome Foundation is an organization that awards $1,000 grants every month. They don't want any compensation (equity, ownership, ROI, etc.) they simply want to help you build your product!
