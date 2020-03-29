@@ -78,6 +78,12 @@ Pull requests are accepted and **must** follow the format below. Will try to kee
 * **Application Requirements** https://www.python.org/psf/grants/#grant-proposal-requirements
 * ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Temporarily Paused as of March 13, 2020 due to Coronavirus`
 
+### Clojurists Together
+* **Info**: Clojurists Together funds maintainers of critical Clojure open source software, infrastructure, and documentation.
+* **Award**: May vary over time, but currently $3,000 USD/month for three months.
+* **Application Process/Info**: Fill out a short form to apply. Every quarter, the committee reviews all applications and votes on which ones best match what Clojurists Together members are looking to support.
+* **Application Link**: https://www.clojuriststogether.org/open-source/
+
 ## Crowdfunding Options
 Winning a grant is much easier said than done which is why I wanted to include another section linking you to platforms where you can crowdfund instead. In many cases, a grant might not cover all of your costs which is why crowdfunding might also be a good option for you to look into.
 
