@@ -3,13 +3,6 @@ This is a collection of verified resources & programs that offer grants + fundin
 
 Pull requests are accepted and **must** follow the format below. Will try to keep this updated regularly sorted by earliest deadline.
 
-### Tyk's Side Project Fund
-* **Info**: A micro-grant for your side project.
-* **Award**: Up to €500 towards software/services to get your project online.
-* **Application Process/Info**: Apply by filling out the form on the site. You should hear back some time towards the end of April. If they like what they see, they'll approach you for an interview and everything will be sorted out from there. See website for further details.
-* **Application Link**: https://tyk.io/fund/
-* ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Deadline: March 31st, 2020`
-
 ### Open Technology Fund (Internet Freedom Fund)
 * **Info**: The Internet Freedom Fund is OTF's primary way to support projects and people working on open and accessible technology-centric projects that promote human rights, Internet freedom, open societies, and help advance inclusive and safe access to global communications networks for at-risk users including journalists, human rights defenders, civil society activists, and every-day people living within repressive environments who wish to speak freely online.
 * **Award**: Anywhere from $10,000 to $900,000. 
@@ -77,6 +70,13 @@ Pull requests are accepted and **must** follow the format below. Will try to kee
 * **Award**: Varies
 * **Application Requirements** https://www.python.org/psf/grants/#grant-proposal-requirements
 * ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Temporarily Paused as of March 13, 2020 due to Coronavirus`
+
+### Tyk's Side Project Fund
+* **Info**: A micro-grant for your side project.
+* **Award**: Up to €500 towards software/services to get your project online.
+* **Application Process/Info**: Apply by filling out the form on the site. You should hear back some time towards the end of April. If they like what they see, they'll approach you for an interview and everything will be sorted out from there. See website for further details.
+* **Application Link**: https://tyk.io/fund/
+* ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Next round of funding starts in October 2020`
 
 ### Clojurists Together
 * **Info**: Clojurists Together funds maintainers of critical Clojure open source software, infrastructure, and documentation.
