@@ -3,6 +3,13 @@ This is a collection of verified resources & programs that offer grants + fundin
 
 Pull requests are accepted and **must** follow the format below. Will try to keep this updated regularly sorted by earliest deadline.
 
+### Fast Grants - Fast Funding for COVID-19 Science
+* **Info**: Science funding mechanisms are too slow in normal times and may be much too slow during the COVID-19 pandemic. Fast Grants are an effort to correct this. If you are a scientist at an academic institution currently working on a COVID-19 related project and in need of funding, we invite you to apply for a Fast Grant. Fast Grants are $10k to $500k and decisions are made in under 48 hours. If we approve the grant, you'll receive payment as quickly as your university can receive it.
+* **Award**: Anywhere from $10,000 to $500,000. 
+* **Application Process/Info**: https://fastgrants.org/
+* **Application Link**: https://docs.google.com/forms/d/e/1FAIpQLSeWBZNQ-XI3KJbhHK6RYdsyOOYP57jFqGVlWxX0ah-TXWiFPw/viewform
+* ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Deadline: N/A`
+
 ### Open Technology Fund (Internet Freedom Fund)
 * **Info**: The Internet Freedom Fund is OTF's primary way to support projects and people working on open and accessible technology-centric projects that promote human rights, Internet freedom, open societies, and help advance inclusive and safe access to global communications networks for at-risk users including journalists, human rights defenders, civil society activists, and every-day people living within repressive environments who wish to speak freely online.
 * **Award**: Anywhere from $10,000 to $900,000. 
