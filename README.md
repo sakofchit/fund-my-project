@@ -8,7 +8,7 @@ Pull requests are accepted and **must** follow the format below. Will try to kee
 * **Award**: Anywhere from $10,000 to $500,000. 
 * **Application Process/Info**: https://fastgrants.org/
 * **Application Link**: https://docs.google.com/forms/d/e/1FAIpQLSeWBZNQ-XI3KJbhHK6RYdsyOOYP57jFqGVlWxX0ah-TXWiFPw/viewform
-* ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Deadline: N/A`
+* ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Applications are currently paused`
 
 ### Open Technology Fund (Internet Freedom Fund)
 * **Info**: The Internet Freedom Fund is OTF's primary way to support projects and people working on open and accessible technology-centric projects that promote human rights, Internet freedom, open societies, and help advance inclusive and safe access to global communications networks for at-risk users including journalists, human rights defenders, civil society activists, and every-day people living within repressive environments who wish to speak freely online.
