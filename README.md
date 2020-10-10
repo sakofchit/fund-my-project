@@ -8,7 +8,7 @@ Pull requests are accepted and **must** follow the format below. Will try to kee
 * **Award**: Up to €500 towards software/services to get your project online.
 * **Application Process/Info**: Apply by filling out the form on the site. You should hear back some time towards the end of April. If they like what they see, they'll approach you for an interview and everything will be sorted out from there. See website for further details.
 * **Application Link**: https://tyk.io/fund/
-* ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Next round of funding starts in October 2020`
+* ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Applications open October 12th`
 
 ### Fast Grants - Fast Funding for COVID-19 Science
 * **Info**: Science funding mechanisms are too slow in normal times and may be much too slow during the COVID-19 pandemic. Fast Grants are an effort to correct this. If you are a scientist at an academic institution currently working on a COVID-19 related project and in need of funding, we invite you to apply for a Fast Grant. Fast Grants are $10k to $500k and decisions are made in under 48 hours. If we approve the grant, you'll receive payment as quickly as your university can receive it.
