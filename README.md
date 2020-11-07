@@ -95,6 +95,8 @@ Pull requests are accepted and **must** follow the format below. Will try to kee
 Winning a grant is much easier said than done which is why I wanted to include another section linking you to platforms where you can crowdfund instead. In many cases, a grant might not cover all of your costs which is why crowdfunding might also be a good option for you to look into.
 
 * [Kickstarter](https://kickstarter.com): Helps bring creative projects to life.
+* [Ko-fi](https://ko-fi.com): Like Patreon/Buy Me a Coffee
+* [Buy Me a Coffee](https://buymeacoffee.com)
 * [Indiegogo](https://www.indiegogo.com/): Indiegogo is where early adopters and innovation seekers find lively, imaginative tech before it hits the mainstream.
 * [Patreon](https://www.patreon.com/): Patreon is a membership platform based in the United States that provides business tools for creators to run a subscription content service. It allows creators and artists to earn a monthly income by providing exclusive rewards and perks to their subscribers
 * [CodeFund](https://codefund.io): CodeFund focuses on providing an ethical alternative to digital advertising that drives results and respect from our technical audience
